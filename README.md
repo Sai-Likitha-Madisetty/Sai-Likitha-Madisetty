@@ -62,83 +62,85 @@ I enjoy building practical applications, developing backend services, integratin
 
 ---
 
-## 🚀 Featured Projects
+## ✨ FEATURED PROJECTS
 
-### 1. Collab Code Editor
-**Real-Time Collaborative Code Editor**
+<p align="center">
+  <i>Building practical solutions through thoughtful engineering and continuous learning.</i>
+</p>
 
-A collaborative coding platform that allows multiple developers to work in a shared coding environment, edit code simultaneously, and execute programs in multiple languages.
+---
 
-**Highlights**
-- Real-time collaborative editing using Yjs and Socket.IO.
-- Monaco Editor integration.
-- Live participant presence and synchronized workspace settings.
-- Room creation with unique codes and optional password protection.
-- JWT-based room session authentication.
-- Multi-language code execution using Judge0 CE.
+### 01 · COLLAB CODE EDITOR
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=100&section=header&text=COLLAB%20CODE%20EDITOR&fontSize=25&fontColor=ffffff&animation=fadeIn" width="100%" alt="Collab Code Editor Banner"/>
+</p>
+
+**Real-Time Collaborative Coding Platform**
+
+A collaborative development environment that enables multiple developers to edit code simultaneously, communicate through shared workspaces and execute programs in multiple languages.
+
+**✦ Engineering Highlights**
+
+- Real-time document synchronization using Yjs and Socket.IO.
+- Monaco Editor integration for an interactive coding experience.
+- Unique room codes with optional password protection.
+- JWT-based room authentication and session management.
+- Multi-language code execution through Judge0 CE.
 - Persistent collaborative document storage using LevelDB.
 - Docker-based deployment on Render.
 
-**Tech Stack:** React, Node.js, Express, Socket.IO, Yjs, Monaco Editor, Docker.
+**✦ Technology Stack**
 
-🔗 [Live Demo](https://collab-code-editor-k4l1.onrender.com/) | [GitHub Repository](https://github.com/Sai-Likitha-Madisetty/collab-code-editor)
+`React 19` `Vite` `Tailwind CSS` `Node.js` `Express 5` `Socket.IO` `Yjs` `Monaco Editor` `JWT` `Docker`
 
----
-
-### 2. BigQuery Release Notes Dashboard
-**Flask-Based Web Application**
-
-A web application that fetches and displays the latest Google BigQuery release notes from Google's official RSS feed.
-
-**Highlights**
-- Fetches updates from an RSS/XML feed.
-- Displays the latest release notes.
-- Refresh functionality with a loading indicator.
-- Displays release note details.
-- Generates tweet-ready content from selected updates.
-
-**Tech Stack:** Python, Flask, HTML, CSS, JavaScript, RSS/XML.
-
-🔗 [Live Demo](https://bigquery-release-notes-dashboard.onrender.com/) | [GitHub Repository](https://github.com/Sai-Likitha-Madisetty/bigquery-release-notes-dashboard)
-
-### 3. SmartSpend
-**Full-Stack Personal Expense Management Application**
-
-A full-stack application for managing personal expenses with secure authentication, transaction management, and PostgreSQL persistence.
-
-**Highlights**
-- User registration and login.
-- JWT-based authentication.
-- Secure password hashing using Argon2.
-- Protected API endpoints and user-specific authorization.
-- Create, view, update, and delete expenses.
-- CSV-based bulk transaction import.
-- Rule-based transaction categorization.
-- Search, filtering, validation, and duplicate detection.
-
-**Tech Stack:** Full-Stack Development, REST APIs, PostgreSQL, JWT, Argon2.
-
-🔗 [GitHub Repository](https://github.com/Sai-Likitha-Madisetty/SmartSpend)
+<p align="center">
+  <a href="https://collab-code-editor-k4l1.onrender.com/">
+    <img src="https://img.shields.io/badge/EXPLORE%20LIVE%20DEMO-DB2777?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/Sai-Likitha-Madisetty/collab-code-editor">
+    <img src="https://img.shields.io/badge/VIEW%20SOURCE%20CODE-831843?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  </a>
+</p>
 
 ---
 
-### 4. StudyFlow
-**Java-Based Student Study Planner**
+### 02 · BIGQUERY RELEASE NOTES DASHBOARD
 
-A Java console application for organizing assignments and exams with deadline tracking and urgency-based prioritization.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,24,20&height=100&section=header&text=BIGQUERY%20DASHBOARD&fontSize=25&fontColor=ffffff&animation=fadeIn" width="100%" alt="BigQuery Dashboard Banner"/>
+</p>
 
-**Highlights**
-- Add and manage assignments and exams.
-- Track deadlines and task completion.
-- Calculate task urgency using task-specific logic.
-- Sort tasks using Java Streams and Comparator.
-- Identify overdue tasks.
-- Persist tasks using file-based storage.
-- Apply abstraction, inheritance, and polymorphism.
+**Flask-Based Release Notes Web Application**
 
-**Tech Stack:** Java, OOP, Java Streams, Comparator, File I/O, java.time.
+A web application that retrieves and displays the latest Google BigQuery product updates through Google's official RSS/XML feed.
+
+**✦ Engineering Highlights**
+
+- Integration with the official BigQuery release notes feed.
+- Dynamic display of recent product updates.
+- Refresh functionality with loading indicators.
+- Release note detail presentation.
+- Generation of tweet-ready content from selected updates.
+
+**✦ Technology Stack**
+
+`Python` `Flask` `JavaScript` `HTML5` `CSS3` `RSS/XML`
+
+<p align="center">
+  <a href="https://bigquery-release-notes-dashboard.onrender.com/">
+    <img src="https://img.shields.io/badge/EXPLORE%20LIVE%20DEMO-DB2777?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/Sai-Likitha-Madisetty/bigquery-release-notes-dashboard">
+    <img src="https://img.shields.io/badge/VIEW%20SOURCE%20CODE-831843?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  </a>
+</p>
 
 ---
+
+<p align="center">
+  <b>Designed with curiosity. Built with code. Improved with every iteration. 💗</b>
+</p>
 
 ---
 
