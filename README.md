@@ -1,4 +1,4 @@
-# Hi, I'm Sai Likitha Madisetty 👋
+# Hey, I'm Likitha! 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Aspiring+Software+Engineer;Full-Stack+Developer;Backend+Engineering;Building+Projects+%7C+Learning+Every+Day" alt="Typing SVG" />
