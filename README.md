@@ -3,15 +3,6 @@
 </h1>
 
 <p align="center">
-  <a href="mailto:sailikitha.madisetty@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sai-likitha-madisetty/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Aspiring+Software+Engineer;Full-Stack+Developer;Backend+Engineering;Building+Projects+%7C+Learning+Every+Day" alt="Typing SVG" />
 </p>
 
@@ -24,7 +15,14 @@ I enjoy building practical applications, developing backend services, integratin
 - 💻 Interested in Software Development, Backend Engineering, and Full-Stack Engineering.
 - 🎯 Aspiring to become a Software Development Engineer (SDE).
 - 📍 India
-
+<p align="center">
+  <a href="mailto:sailikitha.madisetty@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sai-likitha-madisetty/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 ---
 
 ## 🛠️ Tech Stack
