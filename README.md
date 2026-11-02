@@ -1,7 +1,5 @@
 <h1 align="center">
-  Hey, I'm
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=700&size=38&duration=2500&pause=700&color=FF4DAD&center=true&vCenter=true&width=260&height=55&lines=LIKITHA;LIKITHA;LIKITHA" alt="LIKITHA" />
-  👋
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=2500&pause=1000&color=9B5CFF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Likitha!+%F0%9F%91%8B;Welcome+to+my+GitHub!+%E2%9C%A8" alt="Hey, I'm Likitha!" />
 </h1>
 
 <p align="center">
