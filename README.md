@@ -1,4 +1,8 @@
-# Hey, I'm Likitha! 👋
+<h1 align="center">
+  Hey, I'm
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=700&size=38&duration=2500&pause=700&color=FF4DAD&center=true&vCenter=true&width=260&height=55&lines=LIKITHA;LIKITHA;LIKITHA" alt="LIKITHA" />
+  👋
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Aspiring+Software+Engineer;Full-Stack+Developer;Backend+Engineering;Building+Projects+%7C+Learning+Every+Day" alt="Typing SVG" />
