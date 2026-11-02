@@ -151,7 +151,7 @@ A Java console application for organizing assignments and exams with deadline tr
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sai-Likitha-Madisetty/Sai-Likitha-Madisetty/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Sai-Likitha-Madisetty/Sai-Likitha-Madisetty/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 </p>
 
 ---
